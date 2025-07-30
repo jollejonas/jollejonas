@@ -1,63 +1,66 @@
-# Hi there, I'm Jonas 👋  
-### Software developer with a passion for learning, fullstack projects and building useful tools
+<h1 align="center">Hi, I'm Jonas 👋</h1>
+<h3 align="center">Software developer with a passion for fullstack projects, learning and building useful things</h3>
 
-I've always been curious about programming – I started dabbling in it during primary school.  
-After training and working in plastics manufacturing (including at LEGO), I realized my real calling was building **digital tools** rather than physical ones.
-
----
-
-## 💡 What drives me
-- I'm motivated by learning and experimenting
-- I love building real things that people actually need
-- I'm curious by nature – and there's always something new to explore in tech
+<p align="center">
+  <a href="mailto:jollevb@hotmail.com">📧 jollevb@hotmail.com</a> •
+  <a href="https://www.linkedin.com/in/jonasjensen92/">💼 LinkedIn</a>
+</p>
 
 ---
 
-## 💻 What I enjoy working with
-- Fullstack development (React + .NET)
-- Databases and backend structure
-- AI and prompt engineering
-- Clean code and smart architecture
-- Hosting, CI/CD and Azure DevOps
+### 🔨 My latest project: [BodyLog](https://github.com/jollejonas/BodyLog)
+
+A full-featured body measurement & weight tracking app with:
+
+- ✅ React frontend hosted on Vercel  
+- ✅ ASP.NET Web API backend hosted in Azure  
+- ✅ SQL Server database + Entity Framework Core  
+- ✅ JWT Authentication and user-specific data  
+- ✅ GitHub Actions for automatic deployment
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+> 🧠 This is the most complete app I’ve built so far – and I'm continuing to improve it
 
 ---
 
-## 🔨 Projects I'm proud of
+### 🧠 About me
 
-### [🧠 BodyLog](https://github.com/jollejonas/BodyLog)  
-A full-featured measurement and weight tracking web app, built from scratch with:
-- User authentication (JWT)
-- .NET Web API and SQL Server
-- React frontend with charting and local storage
-- Azure backend + Vercel frontend deployment
-- GitHub Actions for CI/CD  
-
-It's my most complete project so far – and I'm continuing to build on it.
+- 🛠️ I love building tools people actually need
+- 🔎 I’m motivated by learning, solving problems and writing clean code
+- 🧩 I’m better at finding patterns than designing pretty UIs (but working on it!)
+- 🔄 I’m currently improving my backend skills and fullstack confidence
 
 ---
 
-## 🚀 I'm currently working on
-- Improving the UI and polish of BodyLog
-- Learning more about backend architecture and security
-- Becoming better at design to grow as a fullstack developer
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jollejonas&show_icons=true&theme=default"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jollejonas&layout=compact&theme=default"/>
+</p>
 
 ---
 
-## 🧠 What I'm like as a developer
+### 🛠️ Tech Stack
 
-- Persistent and motivated to do things right
-- I’ll search the internet endlessly to fix a bug or learn something new
-- I enjoy learning best practices – and using them!
-- I prefer small teams and meaningful projects where I can make a difference
-
----
-
-## 📫 Contact me
-
-- 📧 [jollevb@hotmail.com](mailto:jollevb@hotmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jonasjensen92/)  
-- 🌐 [Check out BodyLog](https://body-log-tau.vercel.app)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+</p>
 
 ---
 
-Thanks for visiting – feel free to ⭐ the BodyLog repo if you like it!
+### 🙌 Thanks for stopping by!
+
+⭐ Feel free to star BodyLog if you like it – and let’s connect if you’re looking for a curious, motivated junior dev!
